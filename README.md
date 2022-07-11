@@ -7,9 +7,9 @@
     I've been working as a front end developer since november 2018, I'm always looking forward to learn new things and improve my skills.
 </p>
 
-<hr>
-
 <h2>Technologies I have experience with:</h2>
+
+<p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" title="html5" alt="html5"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" title="css3" alt="css3"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" title="sass" alt="sass"/>
@@ -21,14 +21,16 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" title="NodeJS" alt="NodeJS"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="git" alt="git"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" height="40" title="eslint" alt="eslint"/>
+</p>
 
  <h2>Interested in studying more about:</h2>
+ 
+ <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="firebase" alt="firebase"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="github" alt="github"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" title="Solidity" alt="Solidity"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" title="Amazon Web Services" alt="Amazon Web Services"/>
- 
- <hr>
+ </p>
 
  <h2>Stats:</h2>
 
