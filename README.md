@@ -34,6 +34,6 @@
 
  <h2>Stats:</h2>
 
-![Thiago Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=TSMota&show_icons=true&theme=github_dark)
+![Thiago Mota's GitHub stats](https://github-readme-stats.vercel.app/api?username=TSMota&show_icons=true&theme=github_dark&count_private=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TSmota&layout=compact&theme=github_dark)](https://github.com/TSmota/github-readme-stats)
