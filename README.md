@@ -21,16 +21,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" title="NodeJS" alt="NodeJS"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="git" alt="git"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" height="40" title="eslint" alt="eslint"/>
-</p>
-
- <h2>Interested in studying more about:</h2>
- 
- <p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="firebase" alt="firebase"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="github" alt="github"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="40" title="Solidity" alt="Solidity"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" title="Amazon Web Services" alt="Amazon Web Services"/>
- </p>
+</p>
 
  <h2>Stats:</h2>
 
