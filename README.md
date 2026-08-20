@@ -11,30 +11,42 @@
     <a href="mailto:thiago.mota2000@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Thiago"></a>
 </p>
 
-Frontend developer since 2018. I work mainly on internal products and design systems, building interfaces that help people get their work done.
+Hey, I'm Thiago. I've been building for the web since 2018 and currently spend most of my time with React, TypeScript, internal tools, and design systems for healthcare products.
 
 ## Core Technologies
 
 ### Frontend
 
 <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React" alt="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" alt="Next.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" title="TypeScript" alt="TypeScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" title="HTML5" alt="HTML5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" title="CSS3" alt="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" title="Sass" alt="Sass">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" title="Tailwind CSS" alt="Tailwind CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React" alt="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" alt="Next.js">
 </p>
 
-### JavaScript Ecosystem
+### Testing
 
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" title="TypeScript" alt="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" alt="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="40" title="Jest" alt="Jest">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" height="40" title="Vitest" alt="Vitest">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" height="40" title="Playwright" alt="Playwright">
 </p>
 
-### Developer Tools
+### Platform
+
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" alt="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" title="Docker" alt="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" alt="Kubernetes">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" title="AWS" alt="AWS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" title="Terraform" alt="Terraform">
+</p>
+
+### Tools and Practices
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="Git" alt="Git">
@@ -47,8 +59,6 @@ Frontend developer since 2018. I work mainly on internal products and design sys
 <img src="./metrics-technical.svg" alt="Thiago's recently used languages and coding habits" width="100%">
 
 <img src="./metrics-activity.svg" alt="Thiago's isometric GitHub contribution calendar for the past year" width="100%">
-
-## Contribution Quest
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TSmota/TSmota/output/github-snake-dark.svg">
