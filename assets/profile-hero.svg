@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" role="img" aria-labelledby="title description">
+  <title id="title">Thiago Mota's GitHub profile</title>
+  <desc id="description">A playful terminal-style banner introducing Thiago Mota.</desc>
+  <rect width="960" height="260" fill="#d9ff3f"/>
+  <rect x="28" y="28" width="904" height="204" fill="#171717"/>
+  <circle cx="54" cy="52" r="7" fill="#ff775f"/>
+  <circle cx="78" cy="52" r="7" fill="#ffc247"/>
+  <circle cx="102" cy="52" r="7" fill="#6bd96b"/>
+  <text x="48" y="92" fill="#d9ff3f" font-family="monospace" font-size="18">thiago@github:~$ whoami</text>
+  <text x="48" y="151" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Thiago Mota</text>
+  <text x="48" y="189" fill="#b8b8b8" font-family="monospace" font-size="18">frontend dev · design systems · making stuff work</text>
+  <rect x="735" y="105" width="150" height="54" fill="#d9ff3f"/>
+  <text x="754" y="139" fill="#171717" font-family="monospace" font-size="20" font-weight="700">hello!</text>
+</svg>

@@ -1,9 +1,7 @@
-<!-- markdownlint-disable MD013 MD033 -->
-
-<h1 align="center">Thiago Mota</h1>
+<!-- markdownlint-disable MD013 MD033 MD041 -->
 
 <p align="center">
-    Frontend Developer | Design Systems
+    <img src="./assets/profile-hero.svg" alt="Thiago Mota - Frontend Developer, Design Systems, and Healthtech" width="100%">
 </p>
 
 <p align="center">
@@ -11,11 +9,13 @@
     <a href="mailto:thiago.mota2000@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Thiago"></a>
 </p>
 
-Hey, I'm Thiago. I've been building for the web since 2018 and currently spend most of my time with React, TypeScript, internal tools, and design systems for healthcare products.
+Hey! I'm Thiago. I've been building stuff for the web since 2018, mostly with React and TypeScript. These days, I'm usually working on internal tools and design systems for healthcare products.
 
-## Core Technologies
+Away from the keyboard, you'll find me playing MOBA/FPS games, watching series or anime, and still waiting for One Piece to end while trying to forget the Game of Thrones finale.
 
-### Frontend
+## Stuff I Use
+
+### Frontend Stuff
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React" alt="React">
@@ -27,7 +27,7 @@ Hey, I'm Thiago. I've been building for the web since 2018 and currently spend m
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" title="Sass" alt="Sass">
 </p>
 
-### Testing
+### Making Sure It Works
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="40" title="Jest" alt="Jest">
@@ -35,7 +35,7 @@ Hey, I'm Thiago. I've been building for the web since 2018 and currently spend m
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" height="40" title="Playwright" alt="Playwright">
 </p>
 
-### Platform
+### Other Things I Work With
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" alt="Node.js">
@@ -46,7 +46,7 @@ Hey, I'm Thiago. I've been building for the web since 2018 and currently spend m
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" title="Terraform" alt="Terraform">
 </p>
 
-### Tools and Practices
+### The Usual Suspects
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="Git" alt="Git">
@@ -54,11 +54,9 @@ Hey, I'm Thiago. I've been building for the web since 2018 and currently spend m
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" alt="GitHub">
 </p>
 
-## Development Activity
+## GitHub Things
 
 <img src="./metrics-technical.svg" alt="Thiago's recently used languages and coding habits" width="100%">
-
-<img src="./metrics-activity.svg" alt="Thiago's isometric GitHub contribution calendar for the past year" width="100%">
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TSmota/TSmota/output/github-snake-dark.svg">

@@ -39,16 +39,3 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 300
           plugin_habits_days: 30
-
-  contribution-calendar:
-    needs: technical-metrics
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate contribution calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics-activity.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
