@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
 jobs:
   technical-metrics:
     runs-on: ubuntu-latest
@@ -37,6 +41,7 @@ jobs:
           plugin_habits_days: 30
 
   contribution-calendar:
+    needs: technical-metrics
     runs-on: ubuntu-latest
     steps:
       - name: Generate contribution calendar
