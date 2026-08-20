@@ -56,7 +56,7 @@ Away from the keyboard, you'll find me playing MOBA/FPS games, watching series o
 
 ## GitHub Things
 
-<img src="./metrics-technical.svg" alt="Thiago's recently used languages and coding habits" width="100%">
+<img src="./metrics-technical.svg" alt="Thiago's GitHub activity, community stats, repositories, languages, and starred topics" width="100%">
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TSmota/TSmota/output/github-snake-dark.svg">

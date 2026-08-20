@@ -19,23 +19,20 @@ jobs:
   technical-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate technical activity metrics
+      - name: Generate profile metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics-technical.svg
-          base: ""
+          base: header, activity, community, repositories
+          base_indepth: yes
+          config_order: base.header, base.activity+community, base.repositories, languages, topics
           config_timezone: America/Sao_Paulo
           plugin_languages: yes
-          plugin_languages_limit: 6
+          plugin_languages_limit: 4
           plugin_languages_threshold: 2%
-          plugin_languages_sections: recently-used
-          plugin_languages_recent_load: 300
-          plugin_languages_recent_days: 30
-          plugin_languages_details: percentage
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_facts: yes
-          plugin_habits_from: 300
-          plugin_habits_days: 30
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 12
